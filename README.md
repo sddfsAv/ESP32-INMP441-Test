@@ -9,7 +9,7 @@ INMP441的简单测试，使用ESP32S3的I2S
 参考: https://github.com/0015/ThatProject/blob/master/ESP32_MICROPHONE/ESP32_INMP441_SETUP_ESP-2.X/ESP32_INMP441_SETUP_ESP-2.X.ino
 
 没有声音时的串口输出(no sound):
-[!no sound](./no_sound.jpg)
+![no sound](./no_sound.jpg)
 
 放音乐时的串口输出(play music):
-[!play music](./play_music.jpg)
+![play music](./play_music.jpg)
